@@ -1,3 +1,5 @@
+simulated_data/*
+ckpt/*
 bin
 logs
 wandb
